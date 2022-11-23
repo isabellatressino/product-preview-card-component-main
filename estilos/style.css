@@ -38,7 +38,7 @@ main{
 section#imagem{
     width: 100%;
     height: 40%;
-    background: var(--dark-cyan) url(images/image-product-mobile.jpg);
+    background: var(--dark-cyan) url(../images/image-product-mobile.jpg);
     background-size: cover;
 }
 
@@ -132,7 +132,7 @@ footer{
     section#imagem{
         width: 50%;
         height: 100%;
-        background-image: url(images/image-product-desktop.jpg);
+        background-image: url(../images/image-product-desktop.jpg);
         background-size: cover;
     }
     section#conteudo{
