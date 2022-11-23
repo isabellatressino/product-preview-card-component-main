@@ -41,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [https://isabellatressino.github.io/product-preview-card-component-main/](https://your-solution-url.com)
+- Solution URL: [https://isabellatressino.github.io/product-preview-card-component-main/](https://isabellatressino.github.io/product-preview-card-component-main/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
