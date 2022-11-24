@@ -22,13 +22,18 @@
 
 body{
     background-color: var(--cream);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
 }
 
 main{
     width: 330px;
     height: 580px;
     background-color: white;
-    margin: 50px auto;
     border-radius: 10px;
     overflow: hidden;
     display: flex;
@@ -123,7 +128,6 @@ footer{
 
 @media screen and (min-width: 600px){
     main{
-        margin-top: 100px;
         display: flex;
         flex-flow: row nowrap;
         height: 410px;
